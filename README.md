@@ -2,7 +2,7 @@
 <a href="https://vk.com/kirish_makarov">
   <img class="img-svg" align="left" alt="VKontakte" width="22px" src="https://img.icons8.com/color/48/000000/vk-com.png"/>
 </a>
-<a href="https://t.me/mistervagina">
+<a href="https://t.me/aapopkov">
   <img class="img-svg" align="left" alt="Abhishek's Telegram" width="22px" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/>
 </a>
 <br />
