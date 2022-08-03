@@ -1,8 +1,8 @@
+<img align="right" alt="corgi" src="https://media.giphy.com/media/3ohc17IuNgUpALSaIM/giphy.gif" width="200px">
+
 ### Привет-привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Меня зовут Алексей 🤵
-<br />
-<img align="right" alt="corgi" src="https://media.giphy.com/media/3ohc17IuNgUpALSaIM/giphy.gif" width="200px">
 <br />
 
 Связаться со мной:
