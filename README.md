@@ -1,11 +1,11 @@
 <img align="right" alt="corgi" src="https://media.giphy.com/media/3ohc17IuNgUpALSaIM/giphy.gif" width="200px">
 
-### Привет-привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hay, there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Меня зовут Алексей 🤵
+My name is Alexey 🤵
 <br />
 
-Связаться со мной:
+Contact:
 <br />
 <a href="https://t.me/aapopkov">
   <img class="img-svg" align="left" alt="Abhishek's Telegram" width="22px" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/>
